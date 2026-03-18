@@ -70,7 +70,7 @@ graph LR
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/your-username/AlphaWatch.git
+git clone https://github.com/Xyness/AlphaWatch.git
 cd AlphaWatch
 cp .env.example .env
 ```
